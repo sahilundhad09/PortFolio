@@ -97,7 +97,7 @@ const Projects = () => {
         "My professional portfolio website leverages React for dynamic content rendering, Express for backend functionality, and Tailwind CSS for responsive design with minimal custom CSS. The single-page application showcases my technical journey through elegantly structured sections including a compelling about page, comprehensive skills matrix, interactive project gallery with detailed case studies, and streamlined contact options.",
       image: "/images/PortfolioPic.png",
       tags: ["React", "TypeScript", "tailwind css"],
-      github: "#",
+      github: "https://github.com/sahilundhad09/PortFolio",
       live: "#",
       featured: true,
       category: ["web"],
