@@ -71,7 +71,7 @@ const Projects = () => {
       title: "PetrolPump Management System",
       description:
         "The Petrol Pump Management System is a comprehensive desktop application developed using the .NET Framework, designed to streamline operations at fuel stations through intuitive digital management. The system features robust employee management with complete CRUD functionality, real-time fuel inventory tracking with automated alerts for low stock levels, and a detailed transaction history module that maintains records of all fuel sales with customizable reporting options.",
-      image: "/images/ppmpic.png",
+      image: "/images/ppm2pic.png",
       tags: [".NET Framework", "C#"],
       github: "#",
       live: "#",
